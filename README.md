@@ -10,7 +10,11 @@ Il Trasferimento di Stile Neurale (NTS) è una tecnica che genera un’immagine 
 
 ### Home price prediction (Regression)
 
+>Portfolio in aggiornamento.
+
+---
 ## Contatti
 
 - Email: <eugenioquaglia@gmail.com>
-- LinkedIn: <[link](https://www.linkedin.com/in/eugenio-quaglia-86114a372/)>
+- LinkedIn: <[LinkedIn](https://www.linkedin.com/in/eugenio-quaglia-86114a372/)>
+
