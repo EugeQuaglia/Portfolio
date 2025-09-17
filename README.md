@@ -17,5 +17,5 @@ Il Trasferimento di Stile Neurale (NTS) è una tecnica che genera un’immagine 
 ## Contatti
 
 - Email: <eugenioquaglia@gmail.com>
-- LinkedIn: <[LinkedIn](https://www.linkedin.com/in/eugenio-quaglia-86114a372/)>
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/eugenio-quaglia-86114a372/)
 
