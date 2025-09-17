@@ -10,6 +10,9 @@ Il Trasferimento di Stile Neurale (NTS) è una tecnica che genera un’immagine 
 
 ### Home price prediction (Regression)
 
+Competizione su Kaggle dove son riuscito a posizionarmi nel miglio 3,1%. Si tratta di un problema di regressione affrontato con XGBoost e tanto feature engineering.
+
+>https://github.com/EugeQuaglia/House-Pricing-competition/tree/main
 ---
 
 >Portfolio in aggiornamento.
